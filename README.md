@@ -27,10 +27,14 @@ replaced by Markup files and an Editor such as vim. Instead of producing
 Scrivener-created Word- or RTF-Documents, directly editable LaTeX would be nice.
 And instead of using Chrome many people rather use
 [Firefox](http://en.wikipedia.org/wiki/Firefox) (including
-myself)
+myself).
 
 In my opinion this might help making *researchr* availiable to more people. At
 least it would suite my purposes better.
+
+## Installation
+
+For now the installation of this system is a wild list of do-it-yourself steps to get up and running, including installation of all components, setting up all the gems, etc. If possible I'd like to wrap it up into an easy to handle installation script (e.g. by using rvm and bundler). Untill then, there's a [GoogleDocs](https://docs.google.com/document/d/1I4bKQtbClrvei21GilMO5BqT0NTaSbSz_fIbqvHDR6Y) file explaining what to do, to get up and running.
 
 ## Thanks
 
