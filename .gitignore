@@ -16,3 +16,6 @@ tags
 
 # bibtexnet
 pubs.sqlite
+
+# Gems
+vendor/
